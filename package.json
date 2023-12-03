@@ -1,0 +1,19 @@
+{
+  "name": "js-cookie-handler",
+  "version": "1.0.0",
+  "description": "Simple code to fix `Error: cookies[0].sameSite: expected one of (Strict|Lax|None)` and prepare cookies for use in playwright or selenium",
+  "main": "cookie-handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliich/js-cookie-handler.git"
+  },
+  "author": "eliich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliich/js-cookie-handler/issues"
+  },
+  "homepage": "https://github.com/eliich/js-cookie-handler#readme"
+}
